@@ -23,3 +23,15 @@ body {
     margin: 0;
     font-family: sans-serif;
 }
+
+.container {
+    border: 1px solid red;
+    overflow: hidden;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    rotate: 20;
+}
